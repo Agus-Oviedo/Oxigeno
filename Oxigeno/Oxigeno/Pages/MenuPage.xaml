@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage
+    x:Class="Oxigeno.Pages.MenuPage"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    Title="Menú"
+    BackgroundColor="#0C9BE3">
+
+    <ScrollView>
+        <VerticalStackLayout
+        Padding="30"
+        Spacing="55"
+        VerticalOptions="StartAndExpand"
+        HorizontalOptions="Center">
+
+            <!-- Cabecera MENU -->
+            <Frame
+          BackgroundColor="White"
+          BorderColor="Black"
+          CornerRadius="15"
+          Padding="0"
+          HeightRequest="77"
+          WidthRequest="248"
+          HasShadow="False">
+                <Label
+            Text="MENU"
+            FontSize="48"
+            FontAttributes="Bold"
+            TextColor="Black"
+            VerticalOptions="Center"
+            HorizontalOptions="Center" />
+            </Frame>
+
+            <!-- Botón NOSOTROS -->
+            <Button
+          Text="NOSOTROS"
+          ImageSource="icon_nosotros.png"
+          ContentLayout="Left,10"
+          BackgroundColor="White"
+          TextColor="Black"
+          FontSize="28"
+          BorderColor="Black"
+          BorderWidth="1"
+          CornerRadius="20"
+          HeightRequest="60"
+          WidthRequest="300"
+          Padding="10"
+               
+          HorizontalOptions="Center"
+          Clicked="OnNosotrosClicked" />
+
+            <!-- Botón SERVICIOS -->
+            <Button
+          Text="SERVICIOS"
+          ImageSource="icon_servicios.png"
+          ContentLayout="Left,10"
+          BackgroundColor="White"
+          FontSize="28"
+          TextColor="Black"
+          BorderColor="Black"
+          BorderWidth="1"
+          CornerRadius="20"
+          HeightRequest="60"
+          WidthRequest="300"
+          Padding="10"
+          HorizontalOptions="Center"
+          Clicked="OnServiciosClicked" />
+
+            <!-- Botón LOG OUT -->
+            <Button
+          Text="LOG OUT"
+          ImageSource="icon_logout.png"
+          ContentLayout="Left,10"
+          BackgroundColor="White"
+          FontSize="28"
+          TextColor="Black"
+          BorderColor="Black"
+          BorderWidth="1"
+          CornerRadius="20"
+          HeightRequest="60"
+          WidthRequest="300"
+          Padding="10"
+          VerticalOptions="Center"
+          Clicked="OnLogoutClicked" />
+
+            <!-- Logo pie -->
+            <VerticalStackLayout
+          Spacing="0"
+          HorizontalOptions="Center"
+          Margin="0,0,0,0">
+                <Image
+            Source="oxigeno_logo.png"
+            HeightRequest="150"
+            HorizontalOptions="Center" />
+
+
+            </VerticalStackLayout>
+
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage
+    x:Class="Oxigeno.Pages.ServiciosPage"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    Title="Servicios"
+    BackgroundColor="#0C9BE3">
+
+    <VerticalStackLayout
+      Padding="25"
+      Spacing="45"
+      VerticalOptions="StartAndExpand"
+      HorizontalOptions="FillAndExpand">
+        <!-- Logo -->
+        <Image
+        Source="oxigeno_logo.png"
+        HeightRequest="150"
+        HorizontalOptions="Center" />
+
+        <Button
+        Text="FERRETERIA"
+        FontSize="28"
+        Style="{StaticResource RoundButtonStyle}"
+        Clicked="OnFerreteriaClicked"/>
+
+        <Button
+        Text="BULONERIA"
+        FontSize="28"
+        Style="{StaticResource RoundButtonStyle}"
+        Clicked="OnBuloneriaClicked"/>
+
+        <Button
+        Text="GASES"
+        FontSize="28"
+        Style="{StaticResource RoundButtonStyle}"
+        Clicked="OnGasesClicked"/>
+
+        <Button
+        Text="SOLDADURA"
+        FontSize="28"
+        Style="{StaticResource RoundButtonStyle}"
+        Clicked="OnSoldaduraClicked"/>
+
+        <Button
+        Text="VOLVER"
+        FontSize="28"
+        Style="{StaticResource RoundButtonStyle}"
+        Clicked="OnVolverClicked"/>
+
+    </VerticalStackLayout>
+</ContentPage>

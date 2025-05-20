@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage
+    x:Class="Oxigeno.Pages.LoginPage"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    Title="Login"
+    BackgroundColor="#0C9BE3">
+
+  <ScrollView>
+    <VerticalStackLayout
+        Padding="20"
+        Spacing="20"
+        VerticalOptions="Center" 
+        HorizontalOptions="Center">
+
+      <!-- Logo -->
+      <Image
+          Source="oxigeno_logo.png"
+          HeightRequest="150"
+          HorizontalOptions="Center" />
+
+      <!-- Usuario -->
+      <Label
+          Text="Usuario:"
+          FontSize="18"
+          TextColor="Black"
+          HorizontalOptions="Start" />
+      <Frame
+          BackgroundColor="White"
+          BorderColor="Black"
+          CornerRadius="20"
+          Padding="0"
+          HasShadow="False"
+          HeightRequest="50"
+          WidthRequest="300"
+          HorizontalOptions="Center">
+        <Entry
+            x:Name="txtUsuario"
+            Placeholder="Ingresa tu usuario"
+            Margin="15,0"
+            TextColor="Black" />
+      </Frame>
+        
+        
+        
+
+      <!-- Contraseña -->
+      <Label
+          Text="Contraseña:"
+          FontSize="18"
+          TextColor="Black"
+          HorizontalOptions="Start" />
+      <Frame
+          BackgroundColor="White"
+          BorderColor="Black"
+          CornerRadius="20"
+          Padding="0"
+          HasShadow="False"
+          HeightRequest="50"
+          WidthRequest="300"
+          HorizontalOptions="Center">
+        <Entry
+            x:Name="txtContrasena"
+            IsPassword="True"
+            Placeholder="••••••••"
+            Margin="15,0"
+            TextColor="Black" />
+      </Frame>
+
+      <!-- Botón Entrar -->
+      <Button
+          Text="Entrar"
+          BackgroundColor="White"
+          BorderColor="Black"
+          BorderWidth="1"
+          CornerRadius="20"
+          TextColor="Black"
+          FontAttributes="Bold"
+          HeightRequest="50"
+          WidthRequest="150"
+          HorizontalOptions="Center"
+          Clicked="btnLogin_Clicked" />
+
+      <!-- Mensajes de validación -->
+      <Label
+          x:Name="lblMensaje"
+          IsVisible="False"
+          TextColor="Red"
+          HorizontalOptions="Center" />
+
+    </VerticalStackLayout>
+  </ScrollView>
+
+</ContentPage>

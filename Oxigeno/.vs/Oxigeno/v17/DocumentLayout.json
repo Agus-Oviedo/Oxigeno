@@ -1,0 +1,277 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gucchi\\Desktop\\oxigeno\\Oxigeno\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D619C8EE-0A0A-43F0-B34A-0E84BD3B51DC}|Oxigeno\\Oxigeno.csproj|c:\\users\\gucchi\\desktop\\oxigeno\\oxigeno\\oxigeno\\pages\\loginpages.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D619C8EE-0A0A-43F0-B34A-0E84BD3B51DC}|Oxigeno\\Oxigeno.csproj|solutionrelative:oxigeno\\pages\\loginpages.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D619C8EE-0A0A-43F0-B34A-0E84BD3B51DC}|Oxigeno\\Oxigeno.csproj|c:\\users\\gucchi\\desktop\\oxigeno\\oxigeno\\oxigeno\\pages\\devpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D619C8EE-0A0A-43F0-B34A-0E84BD3B51DC}|Oxigeno\\Oxigeno.csproj|solutionrelative:oxigeno\\pages\\devpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D619C8EE-0A0A-43F0-B34A-0E84BD3B51DC}|Oxigeno\\Oxigeno.csproj|c:\\users\\gucchi\\desktop\\oxigeno\\oxigeno\\oxigeno\\pages\\devpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D619C8EE-0A0A-43F0-B34A-0E84BD3B51DC}|Oxigeno\\Oxigeno.csproj|solutionrelative:oxigeno\\pages\\devpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D619C8EE-0A0A-43F0-B34A-0E84BD3B51DC}|Oxigeno\\Oxigeno.csproj|c:\\users\\gucchi\\desktop\\oxigeno\\oxigeno\\oxigeno\\pages\\serviciospage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D619C8EE-0A0A-43F0-B34A-0E84BD3B51DC}|Oxigeno\\Oxigeno.csproj|solutionrelative:oxigeno\\pages\\serviciospage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D619C8EE-0A0A-43F0-B34A-0E84BD3B51DC}|Oxigeno\\Oxigeno.csproj|c:\\users\\gucchi\\desktop\\oxigeno\\oxigeno\\oxigeno\\pages\\serviciospage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D619C8EE-0A0A-43F0-B34A-0E84BD3B51DC}|Oxigeno\\Oxigeno.csproj|solutionrelative:oxigeno\\pages\\serviciospage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D619C8EE-0A0A-43F0-B34A-0E84BD3B51DC}|Oxigeno\\Oxigeno.csproj|c:\\users\\gucchi\\desktop\\oxigeno\\oxigeno\\oxigeno\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D619C8EE-0A0A-43F0-B34A-0E84BD3B51DC}|Oxigeno\\Oxigeno.csproj|solutionrelative:oxigeno\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D619C8EE-0A0A-43F0-B34A-0E84BD3B51DC}|Oxigeno\\Oxigeno.csproj|c:\\users\\gucchi\\desktop\\oxigeno\\oxigeno\\oxigeno\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D619C8EE-0A0A-43F0-B34A-0E84BD3B51DC}|Oxigeno\\Oxigeno.csproj|solutionrelative:oxigeno\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D619C8EE-0A0A-43F0-B34A-0E84BD3B51DC}|Oxigeno\\Oxigeno.csproj|c:\\users\\gucchi\\desktop\\oxigeno\\oxigeno\\oxigeno\\pages\\menupage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D619C8EE-0A0A-43F0-B34A-0E84BD3B51DC}|Oxigeno\\Oxigeno.csproj|solutionrelative:oxigeno\\pages\\menupage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D619C8EE-0A0A-43F0-B34A-0E84BD3B51DC}|Oxigeno\\Oxigeno.csproj|c:\\users\\gucchi\\desktop\\oxigeno\\oxigeno\\oxigeno\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D619C8EE-0A0A-43F0-B34A-0E84BD3B51DC}|Oxigeno\\Oxigeno.csproj|solutionrelative:oxigeno\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D619C8EE-0A0A-43F0-B34A-0E84BD3B51DC}|Oxigeno\\Oxigeno.csproj|c:\\users\\gucchi\\desktop\\oxigeno\\oxigeno\\oxigeno\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D619C8EE-0A0A-43F0-B34A-0E84BD3B51DC}|Oxigeno\\Oxigeno.csproj|solutionrelative:oxigeno\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D619C8EE-0A0A-43F0-B34A-0E84BD3B51DC}|Oxigeno\\Oxigeno.csproj|c:\\users\\gucchi\\desktop\\oxigeno\\oxigeno\\oxigeno\\resources\\styles\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D619C8EE-0A0A-43F0-B34A-0E84BD3B51DC}|Oxigeno\\Oxigeno.csproj|solutionrelative:oxigeno\\resources\\styles\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D619C8EE-0A0A-43F0-B34A-0E84BD3B51DC}|Oxigeno\\Oxigeno.csproj|c:\\users\\gucchi\\desktop\\oxigeno\\oxigeno\\oxigeno\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D619C8EE-0A0A-43F0-B34A-0E84BD3B51DC}|Oxigeno\\Oxigeno.csproj|solutionrelative:oxigeno\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D619C8EE-0A0A-43F0-B34A-0E84BD3B51DC}|Oxigeno\\Oxigeno.csproj|c:\\users\\gucchi\\desktop\\oxigeno\\oxigeno\\oxigeno\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D619C8EE-0A0A-43F0-B34A-0E84BD3B51DC}|Oxigeno\\Oxigeno.csproj|solutionrelative:oxigeno\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D619C8EE-0A0A-43F0-B34A-0E84BD3B51DC}|Oxigeno\\Oxigeno.csproj|c:\\users\\gucchi\\desktop\\oxigeno\\oxigeno\\oxigeno\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D619C8EE-0A0A-43F0-B34A-0E84BD3B51DC}|Oxigeno\\Oxigeno.csproj|solutionrelative:oxigeno\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D619C8EE-0A0A-43F0-B34A-0E84BD3B51DC}|Oxigeno\\Oxigeno.csproj|c:\\users\\gucchi\\desktop\\oxigeno\\oxigeno\\oxigeno\\pages\\menupage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D619C8EE-0A0A-43F0-B34A-0E84BD3B51DC}|Oxigeno\\Oxigeno.csproj|solutionrelative:oxigeno\\pages\\menupage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D619C8EE-0A0A-43F0-B34A-0E84BD3B51DC}|Oxigeno\\Oxigeno.csproj|c:\\users\\gucchi\\desktop\\oxigeno\\oxigeno\\oxigeno\\pages\\loginpages.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D619C8EE-0A0A-43F0-B34A-0E84BD3B51DC}|Oxigeno\\Oxigeno.csproj|solutionrelative:oxigeno\\pages\\loginpages.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ServiciosPage.xaml",
+              "DocumentMoniker": "C:\\Users\\gucchi\\Desktop\\oxigeno\\Oxigeno\\Oxigeno\\Pages\\ServiciosPage.xaml",
+              "RelativeDocumentMoniker": "Oxigeno\\Pages\\ServiciosPage.xaml",
+              "ToolTip": "C:\\Users\\gucchi\\Desktop\\oxigeno\\Oxigeno\\Oxigeno\\Pages\\ServiciosPage.xaml",
+              "RelativeToolTip": "Oxigeno\\Pages\\ServiciosPage.xaml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-20T14:30:05.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ServiciosPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\gucchi\\Desktop\\oxigeno\\Oxigeno\\Oxigeno\\Pages\\ServiciosPage.xaml.cs",
+              "RelativeDocumentMoniker": "Oxigeno\\Pages\\ServiciosPage.xaml.cs",
+              "ToolTip": "C:\\Users\\gucchi\\Desktop\\oxigeno\\Oxigeno\\Oxigeno\\Pages\\ServiciosPage.xaml.cs",
+              "RelativeToolTip": "Oxigeno\\Pages\\ServiciosPage.xaml.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA1wCkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T15:03:45.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DevPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\gucchi\\Desktop\\oxigeno\\Oxigeno\\Oxigeno\\Pages\\DevPage.xaml.cs",
+              "RelativeDocumentMoniker": "Oxigeno\\Pages\\DevPage.xaml.cs",
+              "ToolTip": "C:\\Users\\gucchi\\Desktop\\oxigeno\\Oxigeno\\Oxigeno\\Pages\\DevPage.xaml.cs",
+              "RelativeToolTip": "Oxigeno\\Pages\\DevPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T15:04:21.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DevPage.xaml",
+              "DocumentMoniker": "C:\\Users\\gucchi\\Desktop\\oxigeno\\Oxigeno\\Oxigeno\\Pages\\DevPage.xaml",
+              "RelativeDocumentMoniker": "Oxigeno\\Pages\\DevPage.xaml",
+              "ToolTip": "C:\\Users\\gucchi\\Desktop\\oxigeno\\Oxigeno\\Oxigeno\\Pages\\DevPage.xaml",
+              "RelativeToolTip": "Oxigeno\\Pages\\DevPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-20T14:30:27.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MenuPage.xaml",
+              "DocumentMoniker": "C:\\Users\\gucchi\\Desktop\\oxigeno\\Oxigeno\\Oxigeno\\Pages\\MenuPage.xaml",
+              "RelativeDocumentMoniker": "Oxigeno\\Pages\\MenuPage.xaml",
+              "ToolTip": "C:\\Users\\gucchi\\Desktop\\oxigeno\\Oxigeno\\Oxigeno\\Pages\\MenuPage.xaml",
+              "RelativeToolTip": "Oxigeno\\Pages\\MenuPage.xaml",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAB4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-20T14:29:39.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginPages.xaml",
+              "DocumentMoniker": "C:\\Users\\gucchi\\Desktop\\oxigeno\\Oxigeno\\Oxigeno\\Pages\\LoginPages.xaml",
+              "RelativeDocumentMoniker": "Oxigeno\\Pages\\LoginPages.xaml",
+              "ToolTip": "C:\\Users\\gucchi\\Desktop\\oxigeno\\Oxigeno\\Oxigeno\\Pages\\LoginPages.xaml",
+              "RelativeToolTip": "Oxigeno\\Pages\\LoginPages.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-20T02:14:44.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\gucchi\\Desktop\\oxigeno\\Oxigeno\\Oxigeno\\AppShell.xaml",
+              "RelativeDocumentMoniker": "Oxigeno\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\gucchi\\Desktop\\oxigeno\\Oxigeno\\Oxigeno\\AppShell.xaml",
+              "RelativeToolTip": "Oxigeno\\AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-20T02:20:06.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\gucchi\\Desktop\\oxigeno\\Oxigeno\\Oxigeno\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "Oxigeno\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\gucchi\\Desktop\\oxigeno\\Oxigeno\\Oxigeno\\MauiProgram.cs",
+              "RelativeToolTip": "Oxigeno\\MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T02:22:33.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Styles.xaml",
+              "DocumentMoniker": "C:\\Users\\gucchi\\Desktop\\oxigeno\\Oxigeno\\Oxigeno\\Resources\\Styles\\Styles.xaml",
+              "RelativeDocumentMoniker": "Oxigeno\\Resources\\Styles\\Styles.xaml",
+              "ToolTip": "C:\\Users\\gucchi\\Desktop\\oxigeno\\Oxigeno\\Oxigeno\\Resources\\Styles\\Styles.xaml",
+              "RelativeToolTip": "Oxigeno\\Resources\\Styles\\Styles.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-20T14:51:26.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\gucchi\\Desktop\\oxigeno\\Oxigeno\\Oxigeno\\App.xaml",
+              "RelativeDocumentMoniker": "Oxigeno\\App.xaml",
+              "ToolTip": "C:\\Users\\gucchi\\Desktop\\oxigeno\\Oxigeno\\Oxigeno\\App.xaml",
+              "RelativeToolTip": "Oxigeno\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-20T13:57:10.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\gucchi\\Desktop\\oxigeno\\Oxigeno\\Oxigeno\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "Oxigeno\\AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\gucchi\\Desktop\\oxigeno\\Oxigeno\\Oxigeno\\AppShell.xaml.cs",
+              "RelativeToolTip": "Oxigeno\\AppShell.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T02:20:43.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\gucchi\\Desktop\\oxigeno\\Oxigeno\\Oxigeno\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "Oxigeno\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\gucchi\\Desktop\\oxigeno\\Oxigeno\\Oxigeno\\MainPage.xaml.cs",
+              "RelativeToolTip": "Oxigeno\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T02:21:51.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\gucchi\\Desktop\\oxigeno\\Oxigeno\\Oxigeno\\App.xaml.cs",
+              "RelativeDocumentMoniker": "Oxigeno\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\gucchi\\Desktop\\oxigeno\\Oxigeno\\Oxigeno\\App.xaml.cs",
+              "RelativeToolTip": "Oxigeno\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T03:11:38.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\gucchi\\Desktop\\oxigeno\\Oxigeno\\Oxigeno\\MainPage.xaml",
+              "RelativeDocumentMoniker": "Oxigeno\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\gucchi\\Desktop\\oxigeno\\Oxigeno\\Oxigeno\\MainPage.xaml",
+              "RelativeToolTip": "Oxigeno\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-20T02:21:11.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LoginPages.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\gucchi\\Desktop\\oxigeno\\Oxigeno\\Oxigeno\\Pages\\LoginPages.xaml.cs",
+              "RelativeDocumentMoniker": "Oxigeno\\Pages\\LoginPages.xaml.cs",
+              "ToolTip": "C:\\Users\\gucchi\\Desktop\\oxigeno\\Oxigeno\\Oxigeno\\Pages\\LoginPages.xaml.cs",
+              "RelativeToolTip": "Oxigeno\\Pages\\LoginPages.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T02:15:42.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MenuPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\gucchi\\Desktop\\oxigeno\\Oxigeno\\Oxigeno\\Pages\\MenuPage.xaml.cs",
+              "RelativeDocumentMoniker": "Oxigeno\\Pages\\MenuPage.xaml.cs",
+              "ToolTip": "C:\\Users\\gucchi\\Desktop\\oxigeno\\Oxigeno\\Oxigeno\\Pages\\MenuPage.xaml.cs",
+              "RelativeToolTip": "Oxigeno\\Pages\\MenuPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T15:03:08.77Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

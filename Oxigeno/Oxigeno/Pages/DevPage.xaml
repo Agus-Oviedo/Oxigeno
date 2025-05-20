@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage
+    x:Class="Oxigeno.Pages.DevPage"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    Title="Perfil"
+    BackgroundColor="#0C9BE3">
+
+    <ScrollView>
+        <VerticalStackLayout
+        Padding="20"
+        Spacing="15"
+        VerticalOptions="StartAndExpand"
+        HorizontalOptions="FillAndExpand">
+            <Image
+        Source="oxigenopic.png"
+        Aspect="AspectFit"
+        HeightRequest="350"     
+        WidthRequest="400"
+               
+        HorizontalOptions="Center" />
+
+                <!-- Botones de perfil -->
+            <Button
+          Text="DESARROLLADOR"
+          FontSize="28"
+          Style="{StaticResource RoundButtonStyle}"
+          Clicked="OnDevClicked"/>
+            <Button
+          Text="Agustín.OVIEDO"
+          FontSize="28"
+          Style="{StaticResource RoundButtonStyle}"
+          Clicked="OnProfileClicked"/>
+
+            <Button
+          Text="VOLVER"
+          FontSize="28"
+          Style="{StaticResource RoundButtonStyle}"
+          Clicked="OnVolverClicked"/>
+
+            <!-- Logo pie -->
+            <Image
+          
+          Source="oxigeno_logo.png"
+          HeightRequest="150"
+          HorizontalOptions="Center" />
+
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>
