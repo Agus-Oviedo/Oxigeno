@@ -18,7 +18,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Oxigeno")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+3b523826aa465f54405a453a28f0026497ce7100")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+62e2614d954af974f400c86e52664f307265b73b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Oxigeno")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Oxigeno")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
