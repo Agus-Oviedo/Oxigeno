@@ -1,0 +1,21 @@
+# Archivos temporales de compilación
+bin/
+obj/
+
+# Configuraciones locales de usuario
+*.user
+*.suo
+
+# Carpetas de IDE
+.vscode/
+.idea/
+
+# Archivos de sistema
+*.DS_Store
+Thumbs.db
+
+# Maui specific cache
+*.apk
+*.aab
+
+.vs/
